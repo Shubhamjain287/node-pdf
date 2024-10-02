@@ -23,7 +23,7 @@ If you haven't already, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/Shubhamjain287/node-pdf.git
-cd node-api
+cd node-pdf
 npm i
 start index.js
 ```
@@ -50,5 +50,3 @@ The following fields are required in the POST request body:
     "dob": "28/05/2002",
     "bloodGroup": "A+"
 }```
-
-
